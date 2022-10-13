@@ -31,8 +31,8 @@
     border: rgb(0, 105, 252) 8px;
 }
 
-#design-div > div > img {
-    border: rgb(0, 105, 252) 8px;
+.contact-img {
+    border: 3px solid #1469bd;
     border-radius: 100%;
 }
 
