@@ -61,7 +61,7 @@ const ContactPage = ({ user, setUser }) => {
               <label id='contact-label'>
                 <a href ='https://www.linkedin.com/in/daveuxui/'>
                   David Bieschke 
-                </a><br />UX/UI Designer
+                </a><br />UX/UI Designer Lead
               </label>
             </div>
             <div>
