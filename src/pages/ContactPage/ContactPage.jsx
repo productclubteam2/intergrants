@@ -14,7 +14,8 @@ const ContactPage = ({ user, setUser }) => {
             <div>
               <img 
                 class='contact-img'
-                src={require('../../utils/images/Yev.png')} 
+                src={require('../../utils/images/Yev.png')}
+                alt='' 
                 style={{height: '100px'}}>
               </img>
               <label id='contact-label'>
@@ -26,7 +27,8 @@ const ContactPage = ({ user, setUser }) => {
             <div>
               <img 
                 class='contact-img'
-                src={require('../../utils/images/sarah.png')} 
+                src={require('../../utils/images/sarah.png')}
+                alt='' 
                 style={{height: '100px'}}>
               </img>
               <label id='contact-label'>
@@ -43,7 +45,8 @@ const ContactPage = ({ user, setUser }) => {
             <div>
               <img 
                 class='contact-img'
-                src={require('../../utils/images/mahita.png')} 
+                src={require('../../utils/images/mahita.png')}
+                alt='' 
                 style={{height: '100px'}}>
               </img>
               <label id='contact-label'>
@@ -55,7 +58,8 @@ const ContactPage = ({ user, setUser }) => {
             <div>
               <img 
                 class='contact-img'
-                src={require('../../utils/images/david.png')} 
+                src={require('../../utils/images/david.png')}
+                alt='' 
                 style={{height: '100px'}}>
               </img>
               <label id='contact-label'>
@@ -67,7 +71,8 @@ const ContactPage = ({ user, setUser }) => {
             <div>
               <img 
                 class='contact-img'
-                src={require('../../utils/images/jinah.png')} 
+                src={require('../../utils/images/jinah.png')}
+                alt='' 
                 style={{height: '100px'}}>
               </img>
               <label id='contact-label'>
@@ -79,7 +84,8 @@ const ContactPage = ({ user, setUser }) => {
             <div>
               <img 
                 class='contact-img'
-                src={require('../../utils/images/dona.png')} 
+                src={require('../../utils/images/dona.png')}
+                alt='' 
                 style={{height: '100px'}}>
               </img>
               <label id='contact-label'>
@@ -93,7 +99,8 @@ const ContactPage = ({ user, setUser }) => {
             <div>
               <img 
                 class='contact-img'
-                src={require('../../utils/images/kay.png')} 
+                src={require('../../utils/images/kay.png')}
+                alt='' 
                 style={{height: '100px'}}>
               </img>
               <label id='contact-label'>
@@ -105,7 +112,8 @@ const ContactPage = ({ user, setUser }) => {
             <div>
               <img 
                 class='contact-img'
-                src={require('../../utils/images/may.png')} 
+                src={require('../../utils/images/may.png')}
+                alt='' 
                 style={{height: '100px'}}>
               </img>
               <label id='contact-label'>
@@ -117,7 +125,8 @@ const ContactPage = ({ user, setUser }) => {
             <div>
               <img 
                 class='contact-img'
-                src={require('../../utils/images/megan.png')} 
+                src={require('../../utils/images/megan.png')}
+                alt='' 
                 style={{height: '100px'}}>
                 </img>
               <label id='contact-label'>
@@ -129,7 +138,8 @@ const ContactPage = ({ user, setUser }) => {
             <div>
               <img 
                 class='contact-img'
-                src={require('../../utils/images/luisa.png')} 
+                src={require('../../utils/images/luisa.png')}
+                alt='' 
                 style={{height: '100px'}}>
               </img>
               <label id='contact-label'>
@@ -141,7 +151,8 @@ const ContactPage = ({ user, setUser }) => {
             <div className="farnoosh" >
               <img 
                 class='contact-img'
-                src={require('../../utils/images/farnoosh.png')} 
+                src={require('../../utils/images/farnoosh.png')}
+                alt='' 
                 style={{height: '100px'}}>
               </img>
               <label id='contact-label'>
@@ -158,7 +169,8 @@ const ContactPage = ({ user, setUser }) => {
             <div>
               <img 
                 class='contact-img'
-                src={require('../../utils/images/nisha.png')} 
+                src={require('../../utils/images/nisha.png')}
+                alt='' 
                 style={{height: '100px'}}>
               </img>
               <label id='contact-label'>
@@ -170,7 +182,8 @@ const ContactPage = ({ user, setUser }) => {
             <div>
               <img 
                 class='contact-img'
-                src={require('../../utils/images/roman.png')} 
+                src={require('../../utils/images/roman.png')}
+                alt='' 
                 style={{height: '100px'}}>
               </img>
               <label id='contact-label'>
@@ -182,7 +195,8 @@ const ContactPage = ({ user, setUser }) => {
             <div>
               <img 
                 class='contact-img'
-                src={require('../../utils/images/michael.png')} 
+                src={require('../../utils/images/michael.png')}
+                alt='' 
                 style={{height: '100px'}}>
               </img>
               <label id='contact-label'>
@@ -194,7 +208,8 @@ const ContactPage = ({ user, setUser }) => {
             <div> 
               <img 
                 class='contact-img'
-                src={require('../../utils/images/yi.png')} 
+                src={require('../../utils/images/yi.png')}
+                alt='' 
                 style={{height: '100px'}}>
               </img>
               <label id='contact-label'>
@@ -206,7 +221,8 @@ const ContactPage = ({ user, setUser }) => {
             <div>
               <img 
                 class='contact-img'
-                src={require('../../utils/images/trevor.png')} 
+                src={require('../../utils/images/trevor.png')}
+                alt='' 
                 style={{height: '100px'}}>
               </img>
               <label id='contact-label'>
@@ -218,7 +234,8 @@ const ContactPage = ({ user, setUser }) => {
             <div> 
               <img 
                 class='contact-img'
-                src={require('../../utils/images/james.png')} 
+                src={require('../../utils/images/james.png')}
+                alt='' 
                 style={{height: '100px'}}>
               </img>
               <label id='contact-label'>
@@ -230,7 +247,8 @@ const ContactPage = ({ user, setUser }) => {
             <div> 
               <img 
                 class='contact-img'
-                src={require('../../utils/images/kris.png')} 
+                src={require('../../utils/images/kris.png')}
+                alt='' 
                 style={{height: '100px'}}>
               </img>
               <label id='contact-label'>
@@ -242,7 +260,8 @@ const ContactPage = ({ user, setUser }) => {
             <div> 
               <img 
                 class='contact-img'
-                src={require('../../utils/images/maika.png')} 
+                src={require('../../utils/images/maika.png')}
+                alt='' 
                 style={{height: '100px'}}>
               </img>
               <label id='contact-label'>
@@ -259,7 +278,8 @@ const ContactPage = ({ user, setUser }) => {
             <div>
               <img 
                 class='contact-img'
-                src={require('../../utils/images/joshua.png')} 
+                src={require('../../utils/images/joshua.png')}
+                alt='' 
                 style={{height: '100px'}}>
               </img>
               <label id='contact-label'>
@@ -271,7 +291,8 @@ const ContactPage = ({ user, setUser }) => {
             <div>
               <img 
                 class='contact-img'
-                src={require('../../utils/images/pic3.png')} 
+                src={require('../../utils/images/pic3.png')}
+                alt='' 
                 style={{height: '100px'}}>
               </img>
               <label id='contact-label'>
@@ -283,7 +304,8 @@ const ContactPage = ({ user, setUser }) => {
             <div>
               <img 
                 class='contact-img'
-                src={require('../../utils/images/pic4.png')} 
+                src={require('../../utils/images/pic4.png')}
+                alt='' 
                 style={{height: '100px'}}>
               </img>
               <label id='contact-label'>
@@ -295,7 +317,8 @@ const ContactPage = ({ user, setUser }) => {
             <div>
               <img 
                 class='contact-img'
-                src={require('../../utils/images/morgan.png')} 
+                src={require('../../utils/images/morgan.png')}
+                alt='' 
                 style={{height: '100px'}}>
               </img>
               <label id='contact-label'>
